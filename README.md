@@ -1,4 +1,3 @@
 # 100daysofpython
-python from the ground up
->>> print ("Hello Python World!")
-Hello Python World!
+Repository of exercises completed while learning python from the ground up
+
